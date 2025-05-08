@@ -7,6 +7,9 @@
 2. CLick 'Load unpacked' and upload folder contain app.js, manifest.json 
 3. Use it on YouTube
 
+# Original repository
+https://github.com/Rootpye/InstaScan
+
 # Chrome Web Store
 - link: Update soon
 
