@@ -11,7 +11,7 @@
 https://github.com/Rootpye/InstaScan
 
 # Chrome Web Store
-- link: Update soon
+- link: https://chromewebstore.google.com/detail/instascan/jhkhfaajlppefacidejpogoomgafflgk
 
 # Support
 If you have questions about code, send email to here.
